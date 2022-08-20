@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shunmugaraj-M
-- 👀 I’m interested in zoho. i would like to become a software developer.
-- 🌱 I’m currently learning Data Structure and Algorithms.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a software developer.
+- 🌱 I’m currently working in zoho.
+- 💞️ Now i am currently working with postgresql and java.
 
 <!---
 shunmugaraj-M/shunmugaraj-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
